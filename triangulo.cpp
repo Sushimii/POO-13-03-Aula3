@@ -19,7 +19,7 @@ int main() {
         area = (base*altura) / 2;
         
         // Mensagem mostrando os valores adicionados pelo usuario e o valor da área depois do calculo 
-        cout << "A área do tringulo de base: " << base << " e altura: " << altura << " eh: " << area << endl;
+        cout << "A área do triangulo de base: " << base << " e altura: " << altura << " eh: " << area << endl;
         
         return 0;
 }
